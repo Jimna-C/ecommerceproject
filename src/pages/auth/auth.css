@@ -1,0 +1,71 @@
+section{
+    display: flex;
+    width: 96%;
+    padding: 2% 2%;
+    height: 494px;
+    color: #3a3a3a;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form input{
+    width: 95%;
+    padding: 8px;
+    font-size: 12px;
+    margin-bottom: 13px;
+    border: 1px solid #d9d1d1;
+}
+.login-btn{
+    background: #007bff;
+    border: none;
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.google-btn{
+    background: orangered;
+    border: none;
+    width: 100%;
+    padding: 6px;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    color: orangered;
+}
+
+.acc-sub{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.acc-sub a{
+    color: #000 !important;
+}
+.res-sub a{
+    color: #000 !important;
+}
+.sep{
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+.res-sub{
+    height: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}

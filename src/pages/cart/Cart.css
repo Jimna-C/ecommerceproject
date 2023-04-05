@@ -1,0 +1,133 @@
+.cart{
+    height: auto;
+    display: block;
+}
+.cart>h2{
+    text-align: center;
+}
+.main-title{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #f4f4f4;
+    width: 100%;
+}
+.main-title h3{
+    text-align: left;
+}
+.product-title{
+    width: 40%;
+}
+
+.price .quantity .total{
+    width: 20%;
+    text-align: center;
+}
+
+.cart-product img{
+    width: 30%;
+}
+.cart-items{
+    border-bottom: 1px solid #f3f3f3;
+}
+.cart-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #f3f3f3;
+}
+.cart-product{
+    display: flex;
+    width: 40%;
+    align-items: center;
+}
+.price ,.quantity, .total{
+    width: 20%;
+    text-align: left;
+}
+.cart-product-price,.cart-product-quantity,.cart-product-total{
+    width: 20%;
+    text-align: left;
+}
+.cart-product-quantity{
+    display: flex;
+}
+.cart-product-quantity button{
+    border: none;
+    background: transparent;
+    padding: 10px;
+}
+.cart-product-quantity .count{
+    padding: 10px;
+}
+.rem-btn{
+border: none;
+background: none;
+color: red;
+}
+.clear-cart{
+    padding: 10px;
+    background: #202060;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    margin-top: 22px;
+}
+.sub-total{
+    display: flex;
+    justify-content: space-between;
+}
+.sub-total-part1{
+    width: 77%;
+}
+.sub-total-part2{
+    width: 23%;
+}
+.sub-total-part2 span{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.sub-total-part2 span h2{
+    width: 70%;
+    font-size: 20px;
+    color: #111;
+}
+.sub-total-part2 span p{
+    width: 30%;
+    font-size: 20px;
+    font-weight: 500;
+}
+.checkout-btn{
+    padding: 10px;
+    background: #202060;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    margin-top: 22px;
+    width: 77%;
+}
+.cart-empty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #111 !important;
+    height: 413px;
+}
+.start-shop{
+    color: #111;
+    width: 16%;
+}
+.start-shop a{
+    color: #111;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+.check-continue{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 20px;
+    font-size: 17px;
+    color: #111;
+}

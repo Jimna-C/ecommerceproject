@@ -1,0 +1,65 @@
+.shipping-address{
+    width: 48%;
+    box-shadow: 1px 1px 1px 1px #f3f3f3;
+    padding: 2%;
+}
+.order-summary{
+    width: 48%;
+    box-shadow: 1px 1px 1px 1px #f3f3f3;
+    padding: 2%;
+}
+.pro-checkout{
+    background: #202060;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+}
+.check-h2{
+    text-align: center;
+    color: #202060;
+    font-size: 25px;
+    font-weight: 500;
+}
+.summary{
+    align-items: flex-start;
+    height: auto;
+}
+.order-summary-h2{
+    color: #202060;
+    font-size: 20px;
+    font-weight: 400;
+}
+.sum-product-card{
+    display: flex;
+    width: 100%;
+    border-bottom: 1px solid #f3f3f3;
+}
+.sum-product-title{
+width: 60%;
+}
+.sum-product-quantity{
+width: 20%;
+}
+.sum-product-price{
+    width: 20%;
+}
+.sum-total{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.sum-total-head{
+    width: 80%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+}
+.sum-total-cont{
+    width: 20%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+}

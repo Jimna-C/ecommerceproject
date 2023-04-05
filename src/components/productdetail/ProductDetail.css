@@ -1,0 +1,36 @@
+.product-detail{
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.image-part{
+    width: 48%;
+    border: 1px solid #f3f3f3;
+}
+.image-part img{
+    width: 75%;
+}
+.desc-part{
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+}
+.product-det-title{
+    font-size: 20px;
+    font-weight: 500;
+}
+.product-det-price{
+    font-size: 18px;
+    font-weight: 500;
+}
+.product-det-desc{
+    line-height: 1.5;
+    text-align: justify;
+}
+.cart-btn-det{
+    width: 31%;
+    padding: 10px;
+    background: orangered;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+}
