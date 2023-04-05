@@ -1,4 +1,4 @@
-ecommerce project preview: https://easyupload.io/47tnux
+ecommerce project preview: https://drive.google.com/file/d/1lUoCYser96-TJuqUtepNIwDgEYjDkWYJ/view?usp=share_link
 
 # Getting Started with Create React App
 
